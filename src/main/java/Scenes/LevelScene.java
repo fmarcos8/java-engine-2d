@@ -6,7 +6,6 @@ import core.Window;
 public class LevelScene extends Scene {
 
     public LevelScene() {
-        init();
     }
 
     @Override
